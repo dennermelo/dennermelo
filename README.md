@@ -1,5 +1,13 @@
-### Olá! 👨🏾‍💻🙆🏾‍♂️👋
-
+### Olá! 😅👋
+É difícil ver gente pra esses lados, ainda mais no meu próprio user. Porém, permita eu me apresentar.
+Meu nome é Denner, tenho 18 anos e sou desenvolvedor Java, futuro estudande da área da computação e soldado do Exército Brasileiro. 👨🏾‍💻
+<br/>
+Eu trabalhei bastante na comunidade de Minecraft durante o ano de 2018, onde fui de Jornalista até Coordenador da maior comunidade de desenvolvedores e jogadores do jogo, a Gamers Board, lá eu criei amizades e uma delas me levou a trabalhar como desenvolvedor na [Mercado Minecraft](https://mercado-minecraft.com.br/).
+<br/> <br/>
+## 📚 TO-DO List (2021)
+- Estudar Kotlin e utilizar nos meus códigos.
+- Estudar métodos de otimização de códigos.
+- Passar em algum vestibular e tirar ao menos nota 800 na redação ENEM.
 <!--
 **dennermelo/dennermelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
