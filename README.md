@@ -8,10 +8,6 @@ Eu trabalhei bastante na comunidade de Minecraft durante o ano de 2018, onde fui
 - Estudar Kotlin e utilizar nos meus códigos.
 - Estudar métodos de otimização de códigos.
 - Passar em algum vestibular e tirar ao menos nota 800 na redação ENEM.
-<br/>
-https://img.shields.io/twitter/follow/httpsdenner
-<br/>
-[Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dennermelo&show_icons=true&theme=merko)
 <!--
 **dennermelo/dennermelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
