@@ -1,6 +1,5 @@
 ## Olá, eu sou o String! :wave:
 
-<img src="https://i.imgur.com/dVmd69i.png">
 É difícil ver gente pra esses lados, ainda mais no meu próprio user. Porém, permita eu me apresentar.
 Meu nome é Denner, conhecido por alguns como String, porém já tive vários "nicknames" ao decorrer dos anos, eu tenho 18 anos e sou desenvolvedor Java, futuro estudande da área da computação e soldado do Exército Brasileiro. 👨🏾‍💻
 
