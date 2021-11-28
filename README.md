@@ -1,17 +1,7 @@
-## Olá, eu sou o String! :wave:
+<h1 align="center">Seja bem-vindo ao meu perfil. 😊</h1>
 
-É difícil ver gente pra esses lados, ainda mais no meu próprio user. Porém, permita eu me apresentar.
-Meu nome é Denner, conhecido por alguns como String, porém já tive vários "nicknames" ao decorrer dos anos, eu tenho 18 anos e sou desenvolvedor Java, futuro estudande da área da computação e soldado do Exército Brasileiro. 👨🏾‍💻
-
-Eu trabalhei bastante na comunidade de Minecraft durante o ano de 2018, onde fui de Jornalista até Coordenador da maior comunidade de desenvolvedores e jogadores do jogo, a Gamers Board, lá eu criei amizades e uma delas me levou a trabalhar como desenvolvedor na [Mercado Minecraft](https://mercado-minecraft.com.br/).
-
-## 📌 Metas do ano: (TO-DO)
-- Aprender Kotlin e suas tecnologias. 📌
-- Estudar métodos de otimização de códigos. 📌
-- Investir no workplace para um melhor desenvolvimento. 💲
-- Montar um segundo setup para agilizar processos de desenvolvimento. 💲
-- Estudar para concursos da ESA, EspCEx ou AMAN. 📚
-- Arrumar minhas horas de sono. (tá complicado) 🛌
-- Ter ao menos 80% dos meus projetos publicados no Github (Privados não contam) 📁
-
-
+<p align="center">Já que você está aqui, permita-me apresentar antes de vasculhar pelos meus repositórios aqui no <a href="">Github</a>.</p>
+<p>Meu nome é Denner Gabriel de Melo, tenho 18 anos, atualmente resido no estado do Rio Grande do Sul, mais específicamente na cidade de São Leopoldo. Atualmente cursando Engenharia da Computação, nas horas vagas faço da programação minha segunda casa, além de trabalhar em projetos como o <a href="https://github.com/Core-Minecraft">Core Project</a>, um projeto recém adotado por mim, onde sou responsável por manter meus plugins de Minecraft sempre bem atualizados e mais completos.</p>
+<p>Sobre meu histórico na comunidade específicamente de Minecraft, comecei inicialmente nos fóruns gringos, onde muitos ensinavam de forma bem rasa como iniciar na programação, foi aí que decidi estar procurando pessoas que estariam dispostas a me ajudar na área e foi onde eu conheci a <a href="https://gamersboard.com.br">Gamer's Board</a>, uma das comunidades mais acessadas pelo público brasileiro do jogo, lá eram postados conteúdos variados e foi ali que me aproximei mais na programação.</p>
+<p align="center"><img height="14px" src="https://i.imgur.com/QpYxCOp.png"> Visite o Core Project, <a href="https://github.com/Core-Minecraft">clique aqui</a>.</p>
+<p align="center"><img height="14px" src="https://i.imgur.com/GeByVIB.png"> Visite o meu perfil na Gamers'Board, <a href="https://gamersboard.com.br/profile/26993-string/">clique aqui</a>.</p>
