@@ -18,8 +18,8 @@ const DennerMelo = {
     LibreOffice: 'https://pt-br.libreoffice.org/',
   🛠️: (projetos) {
     ProjetoAman: 'Em breve...'
-  }
- 📧: (contact)  {
+  },
+ 📧: (contato)  {
     Instagram: 'https://instagram.com/https.denner/',
     Twitter: 'https://twitter.com/httpsdenner',
     Linkedin: 'https://www.linkedin.com/in/denner-gabriel-de-melo-b79246204',
