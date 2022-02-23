@@ -1,7 +1,28 @@
-<h1 align="center">Seja bem-vindo ao meu perfil. 😊</h1>
-
-<p align="center">Já que você está aqui, permita-me apresentar antes de vasculhar pelos meus repositórios aqui no <a href="">Github</a>.</p>
-<p>Meu nome é Denner Gabriel de Melo, tenho 18 anos, atualmente resido no estado do Rio Grande do Sul, mais específicamente na cidade de São Leopoldo. Atualmente cursando Engenharia da Computação, nas horas vagas faço da programação minha segunda casa, além de trabalhar em projetos como o <a href="https://github.com/Core-Minecraft">Core Project</a>, um projeto recém adotado por mim, onde sou responsável por manter meus plugins de Minecraft sempre bem atualizados e mais completos.</p>
-<p>Sobre meu histórico na comunidade específicamente de Minecraft, comecei inicialmente nos fóruns gringos, onde muitos ensinavam de forma bem rasa como iniciar na programação, foi aí que decidi estar procurando pessoas que estariam dispostas a me ajudar na área e foi onde eu conheci a <a href="https://gamersboard.com.br">Gamer's Board</a>, uma das comunidades mais acessadas pelo público brasileiro do jogo, lá eram postados conteúdos variados e foi ali que me aproximei mais na programação.</p>
-<p align="center"><img height="14px" src="https://i.imgur.com/QpYxCOp.png"> Visite o Core Project, <a href="https://github.com/Core-Minecraft">clique aqui</a>.</p>
-<p align="center"><img height="14px" src="https://i.imgur.com/GeByVIB.png"> Visite o meu perfil na Gamers'Board, <a href="https://gamersboard.com.br/profile/26993-string/">clique aqui</a>.</p>
+```javascript
+const DennerMelo = {
+  🤵🏿: (sobre mim) {
+    Idade: '19 anos'
+    Cidade: 'São Leopoldo, RS'
+  🏢: (acadêmico) {
+    EnsinoMedio: '3° ano - Cursando'
+  },
+  💻: (conhecimentos) {
+    Java: 'https://www.oracle.com/br/java/',
+    HTML5: 'https://developer.mozilla.org/pt-BR/docs/Web/HTML',
+    CSS: 'https://developer.mozilla.org/pt-BR/docs/Web/CSS',
+    Git: 'https://git-scm.com/',
+    WindowsServer: 'https://www.microsoft.com/pt-br/windows-server',
+    Linux: 'https://linuxmint.com/',
+    Photoshop: 'https://www.adobe.com/br/products/photoshop.html',
+    SonyVegas: 'https://www.vegascreativesoftware.com/br/vegas-pro/',
+    LibreOffice: 'https://pt-br.libreoffice.org/',
+  🛠️: (projetos) {
+    ProjetoAman: 'Em breve...'
+  }
+ 📧: (contact)  {
+    Instagram: 'https://instagram.com/https.denner/',
+    Twitter: 'https://twitter.com/httpsdenner',
+    Linkedin: 'https://www.linkedin.com/in/denner-gabriel-de-melo-b79246204',
+  }
+}
+```
