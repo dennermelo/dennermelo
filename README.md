@@ -1,29 +1,35 @@
-```javascript
-const DennerMelo = {
-  🤵🏿: (sobre mim) {
-    Idade: '19 anos'
-    Cidade: 'São Leopoldo, RS'
-  🏢: (acadêmico) {
-    EnsinoMedio: '3° ano - Cursando'
-  },
-  💻: (conhecimentos) {
-    Java: 'https://www.oracle.com/br/java/',
-    HTML5: 'https://developer.mozilla.org/pt-BR/docs/Web/HTML',
-    CSS: 'https://developer.mozilla.org/pt-BR/docs/Web/CSS',
-    Git: 'https://git-scm.com/',
-    WindowsServer: 'https://www.microsoft.com/pt-br/windows-server',
-    Linux: 'https://linuxmint.com/',
-    Photoshop: 'https://www.adobe.com/br/products/photoshop.html',
-    SonyVegas: 'https://www.vegascreativesoftware.com/br/vegas-pro/',
-    LibreOffice: 'https://pt-br.libreoffice.org/',
-  🛠️: (projetos) {
-    ProjetoAman: 'Em breve...'
-  },
- 📧: (contato)  {
-    Instagram: 'https://instagram.com/https.denner/',
-    Twitter: 'https://twitter.com/httpsdenner',
-    Linkedin: 'https://www.linkedin.com/in/denner-gabriel-de-melo-b79246204',
-  }
-}
-```
-![github-user-contribution](https://user-images.githubusercontent.com/48166855/164029087-922ae730-525c-46f0-8f38-936ef32b22e3.svg)
+## Hello there
+
+I don't know how you ended up here, but I promise my repositories are tidy. 😙
+
+## Public information
+
+My name is Denner Melo. I currently live in São Leopoldo, Rio Grande do Sul, Brazil and I am currently in the Brazilian Army.
+
+On my free time I try to learn new things, develop some projects and try to keep my mind always thinking. But lately having free time is kind of complicated, because the Army needs many hours of work.
+
+My current focus is the development of my portfolio, creating some simple projects that add something to my experience.
+
+## Detailed information
+
+* **Name**: Denner Melo
+* **Age**: 19
+* **Living in**: São Leopoldo, RS, Brazil
+* **Stack**: Java, SQL, Kotlin, JS
+* **University**: Not yet, but in the future.
+
+## Curiosities about me
+
+* My contact with computers was very early, which allowed me to develop curiosities about subjects that I now master and can add to my skills and knowledge;
+* My first contact with the programming world was through the **Minecraft**.
+* I intend to be studying at ESPCEx (Army Cadet Preparatory School). However, if I don't get the necessary score, I intend to be studying at ESA (
+School of Sergeants of Arms);
+* In university, the course I plan to study is Computer Engineering.
+
+## What I'm doing RIGHT NOW
+
+**Listening to:** ► Gusttavo Lima - Duas da manhã ♪♫
+
+**PC Uptime:** up 12 hours, 18 minutes
+
+**Last seen:** 25-04-2022 20:33:01 BRT
