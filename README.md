@@ -33,3 +33,5 @@ School of Sergeants of Arms);
 **PC Uptime:** up 12 hours, 18 minutes
 
 **Last seen:** 25-04-2022 20:33:01 BRT
+
+<a href="https://www.speedtest.net/result/14878226236"><img src="https://www.speedtest.net/result/14878226236.png" height=230/></a>
